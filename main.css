@@ -1,0 +1,38 @@
+body {
+    max-width: 1200px;
+    background-color: AntiqueWhite;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.email {
+    font-weight: bold;
+}
+
+.erin-pic {
+    float: right;
+    border: 5px solid transparent;
+}
+.erin-drawing {
+    border: 5px solid transparent;
+}
